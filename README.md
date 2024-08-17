@@ -6,4 +6,5 @@
 * Perfect for quick reference and practical application in cybersecurity scenarios.
 * Accessible for free to aid in your journey of learning and mastering cybersecurity skills.
 
-Main Page : [Chinmay.io](https://app.gitbook.com/u/wPu4fnshtcMLUO9h6rpx5hNV5Lt2)
+Main Page : [Chinmay.io](https://app.gitbook.com/u/wPu4fnshtcMLUO9h6rpx5hNV5Lt2)\
+Ctf Page : [Ctf.Chinmay.io](https://ctf.chinmay.io)
